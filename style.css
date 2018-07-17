@@ -84,18 +84,24 @@ a:hover{
 }
 
 .footer{
-  height: 80px;
+  height: 120px;
   background-color: #000000;
   border-radius: 10px;
+  height: 120px;
 }
 
 #footer-title{
   color: white;
-  padding-top: 12px;
+  padding: 10px 0;
 }
 
 #btn {
-  width: 40px
-  height: 20px;
+  padding:10px 20px;
   border-radius: 5px;
+}
+
+#btn:hover {
+  padding:12px 24px;
+  border-radius: 5px;
+  background-color: #f8c43a;
 }
