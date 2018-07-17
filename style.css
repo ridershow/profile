@@ -1,0 +1,92 @@
+body {
+  background-color: #f0f3f3;
+}
+
+.container {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  width: 60%;
+  margin: 0 auto;
+}
+
+a{
+  color: black;
+  text-decoration: none;
+}
+
+a:hover{
+  color: white;
+}
+
+#avatar{
+  border-radius: 50%;
+  width: 200px;
+  margin: 10px 0 0 10px;
+}
+
+.intro{
+  background-color: #35d0ba;
+  border-radius: 10px;
+  padding: 10px 30px;
+}
+
+#social-title{
+  padding-top: 10px;
+}
+
+.social{
+  background-color: #f8c43a;
+  border-radius: 10px;
+}
+
+.social-inline{
+  padding: 0;
+  padding-bottom: 20px;
+}
+
+.social-inline li{
+  display: inline-block;
+  padding: 0 40px;
+}
+
+.social-inline li i{
+  font-size: 35px;
+}
+
+.projects{
+  border-radius: 10px;
+  margin: 0 auto;
+}
+
+#title-portfolio{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.grid {
+  background-color: #f0f3f3;
+  text-align: left;
+  margin: 0 auto;
+}
+
+.padding-table-c2{
+  padding-left: 50px;
+}
+
+.footer{
+  height: 80px;
+  background-color: #000000;
+  border-radius: 10px;
+}
+
+#footer-title{
+  color: white;
+  padding-top: 12px;
+}
+
+#btn {
+  color: white;
+  padding-bottom: 25px;
+}
