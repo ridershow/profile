@@ -15,13 +15,13 @@ a{
 }
 
 a:hover{
-  color: white;
+  color: #f0f3f3;
 }
 
 #avatar{
   border-radius: 50%;
   width: 200px;
-  margin: 10px 0 0 10px;
+  margin: 10px 10px;
 }
 
 .intro{
@@ -56,6 +56,8 @@ a:hover{
 .projects{
   border-radius: 10px;
   margin: 0 auto;
+  background-color: white;
+  padding-top: 10px;
 }
 
 #title-portfolio{
@@ -66,9 +68,15 @@ a:hover{
 }
 
 .grid {
-  background-color: #f0f3f3;
+  background-color: white;
+  border-radius: 10px;
   text-align: left;
   margin: 0 auto;
+  padding: 0 20px 10px 20px;
+}
+
+#link_DDK:hover {
+  color: red;
 }
 
 .padding-table-c2{
@@ -87,6 +95,7 @@ a:hover{
 }
 
 #btn {
-  color: white;
-  padding-bottom: 25px;
+  width: 40px
+  height: 20px;
+  border-radius: 5px;
 }
